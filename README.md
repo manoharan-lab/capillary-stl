@@ -1,2 +1,2 @@
 # capillary-stl
-STL files for capillary machines
+This repository contains STL files for the devices described in the paper &ldquo;3D-printed machines that manipulate microscopic objects using capillary forces&rdquo; by Cheng Zeng, Maya Winters Faaborg, Ahmed Sherif, Martin J. Falk, Rozhin Hajian, Ming Xiao, Kara Hartig, Yohai Bar-Sinai, Michael P. Brenner, and Vinothan N. Manoharan.  They are provided under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike license.
